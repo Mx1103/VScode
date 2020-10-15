@@ -4,7 +4,7 @@
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-关于[信号与系统实践环节](VScode/check.md)
+关于[信号与系统实践环节](check.md)
 
 
 
