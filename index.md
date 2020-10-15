@@ -2,9 +2,9 @@
 
 你可以通过 [The code on GitHub](https://github.com/Mx1103/VScode/)来查看我在VScode中编写的各种代码
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-关于[信号与系统实践环节](check.md)
+
+关于[信号与系统实践环节](实验目录.md)的作业内容在这里查看
 
 
 
