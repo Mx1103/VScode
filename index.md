@@ -16,7 +16,7 @@
       <p><b>邮箱：565948876@qq.com</b></p>
     </td>
     <td width="25%">
-      <img src="/photo.jpg" width="100%"> 
+      <img src="/photo.png" width="100%"> 
     </td>
   </tr>
 </table>
