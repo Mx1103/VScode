@@ -6,7 +6,19 @@
 
 关于[信号与系统实践环节](实验目录.md)的作业内容在这里查看
 
-
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>马骁</h1>
+      <p><b>信号与系统主页</b></p>
+      <p><b>浙大宁波理工学院信息学院</b></p>
+      <p><b>邮箱：565948876@qq.com</b></p>
+    </td>
+    <td width="25%">
+      <img src="/photo.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
 
 ### check
 
