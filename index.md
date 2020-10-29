@@ -15,7 +15,7 @@
       <p><b>邮箱：565948876@qq.com</b></p>
     </td>
     <td width="25%">
-      <img src="/photo.jpg" width="100%">      % 插入证件照代码
+      <img src="/photo.jpg" width="100%"> 
     </td>
   </tr>
 </table>
